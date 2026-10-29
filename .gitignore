@@ -1,0 +1,10 @@
+target/
+target_classes/
+.classpath
+.project
+.settings/
+.vscode/
+*.class
+*.log
+Thumbs.db
+desktop.ini
